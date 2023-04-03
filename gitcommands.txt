@@ -1,3 +1,5 @@
 Command to create local repo
   Git Clone---comm
       this command is used to local repository using ssh url or https url
+      ssh key-- when we have connection
+https key -- when we dont have connection
